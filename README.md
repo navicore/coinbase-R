@@ -1,2 +1,3 @@
 # coinbase-R
-An R package for the Coinbase API
+An UNOFFICIAL R package for the Coinbase API
+
