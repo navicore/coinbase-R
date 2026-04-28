@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/coinbase-R](https://git.navicore.tech/navicore/coinbase-R).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 # coinbase-R
 An UNOFFICIAL R package for the Coinbase API
 
